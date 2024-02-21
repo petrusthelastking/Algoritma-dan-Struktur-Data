@@ -1,8 +1,10 @@
+# week 02 - Obbjek
 Nama: Petrus Tyang Agung Rosario
 Nim : 2341720227
 Absen : 22
 Kelas : TI 1B
 
+## Praktikum
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/cd4f87c5-adcb-4822-8668-01c002bf8fb9)JOBSHEET II
 OBJECT
 
