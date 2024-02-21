@@ -63,6 +63,8 @@ contohh hasil
 
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/c27b64bf-9d9c-49f5-842c-848aeddb24eb)
 
+
+## PERTANYAAN
 1. Pada class BukuMain, tunjukkan baris kode program yang digunakan untuk proses instansiasi!
 Apa nama object yang dihasilkan?<br>
    Jawab:
