@@ -110,6 +110,14 @@ Tidak, method di dalam class Buku tidak harus diakses secara berurutan setelah m
 
 5. Buat object baru dengan nama buku<NamaMahasiswa> menggunakan konstruktor 
 berparameter dari class Buku!
+   Jawab:
+   ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/610a3463-a64f-4900-ae21-a83e5b542062)
+
+   ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/e5f8c6f2-064a-4e2d-8f78-d6e4b67eb252)
+
+contoh output dari code diatas
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/d468eaa1-6c5d-414f-9845-559189f0c42f)
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/1129aabd-f02e-4a30-8e1d-6d9d087fd010)
 
 
 
