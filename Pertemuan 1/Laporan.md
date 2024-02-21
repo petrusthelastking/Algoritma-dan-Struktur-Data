@@ -18,7 +18,7 @@ Contoh hasil dari code diatas<br>
 
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/80d4e025-ab25-449b-a34f-d7d267482828)
 
-##PERTANYAAN
+## PERTANYAAN
 1. Sebutkan dua karakteristik class atau object!
    Jawab:
     -Atribut (State)
