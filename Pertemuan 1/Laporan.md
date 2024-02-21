@@ -42,7 +42,9 @@ Buku? Sebutkan apa saja atributnya!
 4. Perhatikan method terjual() yang terdapat di dalam class Buku. Modifikasi isi method tersebut 
 sehingga proses pengurangan hanya dapat dilakukan jika stok masih ada (lebih besar dari 0)!
   Jawab:
+  
   ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/856143cc-87f3-4c9a-a26a-5491536ee45b)
+  
 5. Menurut Anda, mengapa method restock() mempunyai satu parameter berupa bilangan int?
     Jawab:
 - Jumlah barang adalah besaran diskrit: Jumlah barang tidak bisa dipecah menjadi bagian-bagian kecil, melainkan harus berupa bilangan bulat. Oleh karena itu, tipe data int yang hanya dapat menyimpan bilangan bulat adalah pilihan yang tepat.
