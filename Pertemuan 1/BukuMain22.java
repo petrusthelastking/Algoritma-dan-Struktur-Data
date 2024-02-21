@@ -8,11 +8,19 @@ public class BukuMain22 {
         bk1.harga = 71000;
 
         bk1.tampilinfromasi();
-        bk1.terjual(5);  
+        bk1.terjual(5);
         bk1.gantiharga(60000);
         bk1.tampilinfromasi();
+
         Buku22 bk2 = new Buku22("self reword", "mahendra ayesha", 160, 29, 59000);
         bk2.terjual(11);
         bk2.tampilinfromasi();
+
+        
+        Buku22 bukuMahasiswa = new Buku22("judulMahasiswa", "pengarangMahasiswa", 150, 10, 50000);
+        bukuMahasiswa.tampilinfromasi();
+        bukuMahasiswa.terjual(3);
+        bukuMahasiswa.gantiharga(48000);
+        bukuMahasiswa.tampilinfromasi();
     }
 }
