@@ -53,6 +53,10 @@ sehingga proses pengurangan hanya dapat dilakukan jika stok masih ada (lebih bes
 
 
 
+
+
+
+
 Percobaan 2: Instansiasi Object, serta Mengakses Atribut dan Method
 
 contoh Percobaan Code
