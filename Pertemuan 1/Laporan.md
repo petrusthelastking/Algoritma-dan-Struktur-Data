@@ -41,7 +41,7 @@ Buku? Sebutkan apa saja atributnya!
 - gantiharga(int hrg): Method ini tidak mengembalikan nilai (void) dan berfungsi untuk mengubah harga buku dengan nilai baru.
 4. Perhatikan method terjual() yang terdapat di dalam class Buku. Modifikasi isi method tersebut 
 sehingga proses pengurangan hanya dapat dilakukan jika stok masih ada (lebih besar dari 0)!
-  Jawab:
+  Jawab:<br>
   
   ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/856143cc-87f3-4c9a-a26a-5491536ee45b)
   
