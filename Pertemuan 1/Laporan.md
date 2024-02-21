@@ -5,13 +5,13 @@ Absen : 22<br>
 Kelas : TI 1B
 
 ## PRAKTIKUM
-JOBSHEET II<BR>
-OBJECT
+JOBSHEET II<br>
+OBJECT<br>
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/cd4f87c5-adcb-4822-8668-01c002bf8fb9)
-Percobaan 1: Deklarasi Class, Atribut dan Method<BR>
-Contoh code nya
+Percobaan 1: Deklarasi Class, Atribut dan Method<br>
+Contoh code nya<br>
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/e5c4d4b1-b025-4881-bf80-1b6b97cc9722)
-Contoh hasil dari code diatas
+Contoh hasil dari code diatas<br>
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/80d4e025-ab25-449b-a34f-d7d267482828)
 
 ##PERTANYAAN
