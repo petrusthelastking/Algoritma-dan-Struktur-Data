@@ -1,19 +1,20 @@
-# week 02 - Obbjek
+# WEEK 02 - OBJEK
 Nama: Petrus Tyang Agung Rosario<br>
 Nim : 2341720227 <br>
 Absen : 22<br>
 Kelas : TI 1B
 
-## Praktikum
+## PRAKTIKUM
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/cd4f87c5-adcb-4822-8668-01c002bf8fb9)JOBSHEET II
 OBJECT
 
-Percobaan 1: Deklarasi Class, Atribut dan Method
+Percobaan 1: Deklarasi Class, Atribut dan Method<BR>
 Contoh code nya
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/e5c4d4b1-b025-4881-bf80-1b6b97cc9722)
 Contoh hasil dari code diatas
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/80d4e025-ab25-449b-a34f-d7d267482828)
 
+##PERTANYAAN
 1. Sebutkan dua karakteristik class atau object!
    Jawab:
     -Atribut (State)
