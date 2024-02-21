@@ -1,5 +1,5 @@
 # week 02 - Obbjek
-Nama: Petrus Tyang Agung Rosario
+Nama: Petrus Tyang Agung Rosario<br>
 Nim : 2341720227
 Absen : 22
 Kelas : TI 1B
