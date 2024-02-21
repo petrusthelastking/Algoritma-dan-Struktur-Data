@@ -100,7 +100,7 @@ hasil code 1
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/6d465889-c9ee-4a4e-8c8f-04dcc2e11f9d)
 
 
-Pertanyaan:
+## PERTANYAAN
 1. Pada class Buku di Percobaan 3, tunjukkan baris kode program yang digunakan untuk 
 mendeklarasikan konstruktor berparameter!<br>
    Jawab:
