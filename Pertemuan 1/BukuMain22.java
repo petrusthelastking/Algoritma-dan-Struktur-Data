@@ -5,11 +5,11 @@ public class Buku22 {
     int stok;
     double harga;
 
-    
+    // Constructor tanpa parameter
     public Buku22() {
     }
 
-    
+    // Constructor dengan parameter
     public Buku22(String judul, String pengarang, int halaman, int stok, double harga) {
         this.judul = judul;
         this.pengarang = pengarang;
@@ -18,7 +18,7 @@ public class Buku22 {
         this.harga = harga;
     }
 
-    
+    // Method untuk menampilkan informasi buku
     public void tampilinfromasi() {
         System.out.println("Judul: " + judul);
         System.out.println("Pengarang: " + pengarang);
@@ -28,7 +28,7 @@ public class Buku22 {
         System.out.println();
     }
 
-    
+    // Method untuk mengupdate stok setelah penjualan
     public void terjual(int jumlah) {
         if (jumlah > 0 && jumlah <= stok) {
             stok -= jumlah;
@@ -38,7 +38,7 @@ public class Buku22 {
         }
     }
 
-    
+    // Method untuk mengganti harga buku
     public void gantiharga(double hargaBaru) {
         if (hargaBaru > 0) {
             harga = hargaBaru;
