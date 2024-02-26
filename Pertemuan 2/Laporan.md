@@ -151,5 +151,6 @@ Contoh code dari Dragon
 
 Output dari program di atas
 
-![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-Data/assets/143620112/cc19d17a-2993-48cd-a35a-050477d0e8a6)
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/6b5c60ae-230f-47a8-9518-6ed01ffc9074)
+
 
