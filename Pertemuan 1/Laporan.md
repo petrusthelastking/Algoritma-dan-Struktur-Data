@@ -25,20 +25,11 @@ Kelas : TI 1B
 
 ## CONTOH CODE PRAKTEK ARRAY
 
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/ab46c9c1-eb76-4cdc-a110-16d7ab3177ac)
 
+## CONTOH OUTPUT DARI CODE
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/4284e306-cbba-4840-8dd0-56a796263f00)
 
 
 ## CONTOH CODE PRAKTEK FUNGSI
