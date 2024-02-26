@@ -1,0 +1,86 @@
+import java.util.Scanner;
+public class Dragon21 {
+    int x, y, width, height;
+
+    Dragon27(int x, int y, int width, int height) {
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = height;
+    }
+
+    void moveLeft() {
+        x--;
+        if (x < 0) {
+            detectCollision(x, y);
+        }
+    }
+
+    void moveRight() {
+        x++;
+        if (x > width) {
+            detectCollision(x, y);
+        }
+    }
+
+    void moveUp() {
+        y--;
+        if (y < 0) {
+            detectCollision(x, y);
+        }
+    }
+
+    void moveDown() {
+        y++;
+        if (y > height) {
+            detectCollision(x, y);
+        }
+    }
+
+    void detectCollision(int x, int y) {
+        System.out.println("Game Over");
+        System.exit(0);
+    }
+
+    void printPosition() {
+        System.out.println("Posisi Dragon : (" + x + ", " + y + ")");
+    }
+    public static void main(String[] args) {
+        Scanner sc27 = new Scanner(System.in);
+
+        Dragon27 playerTaufik = new Dragon27(0, 0, 10, 10);
+
+        while (true) {
+            // Cetak posisi dragon
+            playerTaufik.printPosition();
+
+            System.out.println("Pilih arah gerakan: ");
+            System.out.println("1. Kiri");
+            System.out.println("2. Kanan");
+            System.out.println("3. Atas");
+            System.out.println("4. Bawah");
+
+            // Baca input
+            int choice = sc27.nextInt();
+
+            // Gerakan dragon berdasarkan input
+            switch (choice) {
+                case 1:
+                    playerTaufik.moveLeft();
+                    break;
+                case 2:
+                    playerTaufik.moveRight();
+                    break;
+                case 3:
+                    playerTaufik.moveUp();
+                    break;
+                case 4:
+                    playerTaufik.moveDown();
+                    break;
+                default:
+                    System.out.println("Input tidak valid.");
+            }
+        }
+    }
+
+}
