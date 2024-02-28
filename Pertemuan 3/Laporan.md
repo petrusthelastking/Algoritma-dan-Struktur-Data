@@ -151,11 +151,11 @@ yang masing-masing digunakan untuk mengisikan atribut alas dan tinggi.
     JAWAB:<br>
     CODE PROGRAM DARI DI ATAS<br>
     
-    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/39ad3387-db2d-4d65-8aa1-55f3613f7fc9)
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/39ad3387-db2d-4d65-8aa1-55f3613f7fc9)
 
     OUTPUT DARI CODE PROGRAM DI ATAS<br>
 
-    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/f454b195-a369-4d94-afe9-b1dedc1a4565)
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/f454b195-a369-4d94-afe9-b1dedc1a4565)
 
 3. Tambahkan method hitungLuas() dan hitungKeliling() pada class Segitiga
 tersebut. Asumsi segitiga adalah segitiga siku-siku. (Hint: Anda dapat menggunakan bantuan
