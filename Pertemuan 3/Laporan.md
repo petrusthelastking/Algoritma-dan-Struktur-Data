@@ -176,26 +176,26 @@ sgArray ke-1 alas: 20, tinggi: 10
 sgArray ke-2 alas: 15, tinggi: 6
 sgArray ke-3 alas: 25, tinggi: 10<br>
     JAWAB:<br>
-    CONTOH PENAMBAHAN CODE DARI PROGRAM DI ATAS
+    CONTOH PENAMBAHAN CODE DARI PROGRAM DI ATAS<br>
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/d90abb7b-1950-475a-ad2d-e7ebf8d40e5f)
 
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/ba641948-3d36-49ac-be5e-74a55a4af985)
 
-    CONTOH OUTPUT DARI CODE DIATAS
+    CONTOH OUTPUT DARI CODE DIATAS<br>
 
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/64b88bb8-628b-4ae1-96d7-e6afccae7da8)
 
 7. Kemudian menggunakan looping, cetak luas dan keliling dengan cara memanggil method
 hitungLuas() dan hitungKeliling().<br>
     JAWAB:<br>
-    CONTOH CODE PADA SOAL DI ATAS
+    CONTOH CODE PADA SOAL DI ATAS<br>
 
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/9e6f0738-19f1-450a-8db8-6814bd5156a0)
 
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/62911efa-6fdc-4ca5-b5c8-3b47d39b074c)
 
 
-    CONTOH OUTPUT DARI CODE DIATAS
+    CONTOH OUTPUT DARI CODE DIATAS<br>
 
    ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/9fd636ee-6c2f-4234-b673-0af3ca55c8a8)
 
@@ -203,3 +203,55 @@ hitungLuas() dan hitungKeliling().<br>
 
 ## PRAKTIKUM 1
 
+CONTOH CODE JAVA DALAM PRAKTIKUM 1<br>
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a69f378f-a6fd-4e0b-8a64-2cf6526cdbce)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/bcc5ab49-5c00-4a44-ac8f-6caef4a3fd6b)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a2d040bc-dac3-498d-b2d6-33f2d411bed4)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/8671ee6d-8070-4829-a5b0-99fdf94e1a04)
+
+OUTPUT DARI CODE DIATAS
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a3782252-9c20-48bc-94f0-a7f3b9f9f8bd)
+
+
+## PRAKTIKUM 2
+
+CONTOH CODE JAVA DALAM PRAKTIKUM 2<br>
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/532b5d6f-4d30-4a93-9d28-06f3cabbbdbc)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/243da741-75c8-435d-84b6-decfef9cd743)
+
+
+OUTPUT DARI CODE DIATAS<br>
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/827408a6-cb0b-4346-ac68-f50e051b84f2)
+
+
+
+## PRAKTIKUM 3
+
+CONTOH CODE JAVA DALAM PRAKTIKUM 3<br>
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/3febd1af-46eb-4ab2-8312-ffa356145f47)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/ffca9f79-9754-4280-868f-72f274bc9f23)
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/2a4c4ee4-8306-42b9-89aa-cf3679539b43)
+
+
+OUTPUT DARI CODE DIATAS<br>
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/f5728c2e-d014-4869-a108-27d5318f5219)
