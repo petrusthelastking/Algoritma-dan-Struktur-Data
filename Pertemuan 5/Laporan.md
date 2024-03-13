@@ -83,7 +83,7 @@ JAWAB:<br>
 
 
 
-## PRAKTIKUM 2
+## PRAKTIKUM 3
 Contoh Code 1<br>
 
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/68dbf4f5-b13d-4d35-a6a6-6bbdac04703b)
