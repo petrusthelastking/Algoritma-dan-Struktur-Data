@@ -125,4 +125,54 @@ dari binary search tidak akan sesuai jika kode buku tidak dalam urutan yang teru
 ## LATIHAN PRAKTEK
 
 
+1. Modifikasi percobaan searching diatas dengan ketentuan berikut ini
+Ubah tipe data dari kode Buku yang awalnya int menjadi String<br>
+JAWAB<br>
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/040a648e-5042-4599-86b9-159445e507ba)
+
+
+
+Tambahkan method untuk pencarian kode Buku (bertipe data String) dengan menggunakan sequential search dan binary search.<br>
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/1d9b5bbd-5eb8-4559-97ea-40e5daec70a1)
+
+
+
+CONTOH OUTPUT PERCOBAAN<br>
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/eefcb147-15c4-479c-b7fe-cec361c9cef2)
+
+
+
+
+2. Modifikasi percobaan searching diatas dengan ketentuan berikut ini<br>
+Tambahkan method pencarian judul buku menggunakan sequential search dan binary search. Sebelum dilakukan searching dengan binary search data harus dilakukan pengurutan dengan menggunakan algoritma Sorting (bebas pilih algoritma sorting apapun)! Sehingga ketika input data acak, maka algoritma searching akan tetap berjalan<br>
+JAWAB:<br>
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/e4018991-ae07-4f52-9b52-e30a9ce6b928)
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/0bc5bf90-522b-45b2-be6f-48d0afc55b09)
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/26f17807-18ba-4c13-b918-872bbbbed9ea)
+
+
+
+CONTOH OUTPUT PERCOBAAN<br>
+
+
+![TUGAS ASD SC](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/00407e4b-3477-418b-9462-cf3b625f63c0)
+
+
+
+![TUGAS ASD SC 2](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/cf172a00-638f-4fb4-aff5-bc06f7b083ed)
 
