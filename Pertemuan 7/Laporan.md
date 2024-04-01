@@ -176,3 +176,11 @@ CONTOH OUTPUT PERCOBAAN<br>
 
 ![TUGAS ASD SC 2](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/cf172a00-638f-4fb4-aff5-bc06f7b083ed)
 
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a2cd48a1-6f3b-45d3-9251-0c65415d2e37)
+
+
+
+
+
