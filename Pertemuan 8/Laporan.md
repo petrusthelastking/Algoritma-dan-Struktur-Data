@@ -205,3 +205,10 @@ CONTOH CODE 3<br>
 
 ![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/77818465-5dd2-409e-ad0b-5b30ee7732e5)
 
+
+CONTOH OUTPUT<br>
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/0dfbf79d-3c8e-48f4-bc42-4484e8254455)
+
+
