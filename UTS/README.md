@@ -1,7 +1,7 @@
 # WEEK 09 - UTS
 Nama: Petrus Tyang Agung Rosario<br>
 Nim : 2341720227 <br>
-Absen : 22<br>
+Absen : 21<br>
 Kelas : TI 1B
 
 ## SOAL UTS 
