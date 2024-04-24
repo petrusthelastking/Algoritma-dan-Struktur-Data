@@ -126,4 +126,46 @@ JAWAB<br>
 ## TUGAS
 
 1 Buatlah program antrian untuk mengilustasikan pesanan disebuah warung. Ketika seorang
-pembeli akan mengantri, maka dia harus mendaftarkan nama, dan nomor HP seperti yang 
+pembeli akan mengantri, maka dia harus mendaftarkan nama, dan nomor HP seperti yang<br>
+
+# CONTOH PERCOBAAN DARI CODE DIATAS
+
+![21](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/133d9876-acdc-4f6a-86d2-22197a7a91a1)
+
+
+
+![20](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a29ec2a1-766e-4985-bdff-940198760888)
+
+
+
+![19](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/5b7c8e27-9e11-41c4-9f57-96e30459a511)
+
+
+
+![18](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/78707dad-3127-4484-a12e-29ea9ad80632)
+
+
+
+![17](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/a107efcf-4246-4220-a0e7-53381371d266)
+
+
+
+![16](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/0bef1a68-c284-4628-9f33-68daafe7cf34)
+
+
+
+# CONTOH PERCOBAAN DARI CODE DIATAS
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/37473125-ed2a-465f-88bc-e0d24c45b1fa)
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/0c83e101-e393-4539-8074-26e781c61f2d)
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/23261948-29c6-4147-abaf-82e512a81a64)
+
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/b9029a20-2b84-4720-84f0-ab7006fcb580)
