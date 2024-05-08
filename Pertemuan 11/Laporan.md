@@ -66,3 +66,43 @@ kode yang diberikan merupakan bagian dari method remove pada linked list di Java
 
 ## TUGAS 1
 
+![5555](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/d80a9b18-da98-4115-9fe3-d80cf1f680ad)
+
+
+![4444](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/965fb5bf-4985-43e4-9089-26d130ea3acc)
+
+
+![3333](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/011cff1a-5aec-458a-a406-9e1be0c03279)
+
+
+![2222](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/67e7f20e-2f3e-473d-aa67-62a1116d6ea7)
+
+
+![1111](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/f2b2fe11-bca8-4df8-8137-183167e297ea)
+
+
+OUTPUT
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/8150a79e-9544-45b0-bbbb-fec54fe89846)
+
+
+## TUGAS 2
+
+![9999](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/914b30b6-713c-4462-be6f-6f1375c7e68b)
+
+
+![8888](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/e756497a-d15a-4352-909b-477f31be2bc5)
+
+
+![7777](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/8cc975fd-1b0e-41b2-83b9-7bb9e5e2ce04)
+
+
+![6666](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/8ab3563d-87e1-40fd-b86e-7a06c9d0a264)
+
+
+
+OUTPUTNYA<br>
+
+
+![image](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/2aa1ec7d-f86e-4889-b1ca-448b688ceee6)
