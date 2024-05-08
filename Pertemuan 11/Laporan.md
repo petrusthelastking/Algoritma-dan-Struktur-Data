@@ -1,4 +1,4 @@
-# WEEK 02 - OBJEK
+# WEEK 12 - LINKED LIST
 Nama: Petrus Tyang Agung Rosario<br>
 Nim : 2341720227 <br>
 Absen : 21<br>
