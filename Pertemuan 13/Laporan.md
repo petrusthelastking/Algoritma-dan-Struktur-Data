@@ -155,5 +155,22 @@ Kode program di atas pada fungsi remove digunakan untuk memperbarui pointer next
 - Statement current.next.prev = current.prev;: Statement ini digunakan untuk memperbarui pointer prev dari node berikutnya dari node yang dihapus agar menunjuk ke node sebelumnya dari node yang dihapus.
 
 
-## TUGAS
+## TUGAS 1
+
+CODE <br>
+![code14](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/78dfa289-5dbb-4c27-8abd-2764163d9659)
+![code13](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/87fd883b-e02e-4728-b26b-d4bc6b4bc5b6)
+![code12](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/f84eb05e-3f13-45db-a923-6ca6ceea7877)
+![code11](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/d10b4113-de0e-4f4a-8e3f-0ca741901578)
+![code10](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/b60cfa0e-49ea-4f77-94a6-54a03063940a)
+![code9](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/243fc412-abbd-400d-b449-db8d9d9e3c60)
+
+
+## TUGAS 2
+
+![code19](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/805b8df3-392b-4742-93f4-20bbe181e150)
+![code18](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/bfd6ac9d-31e5-407d-b465-41b2d13f6ee8)
+![code17](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/17771e39-9333-47f3-8f50-9b256c7702f1)
+![code16](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/1482503f-2868-4e34-b25b-3c267a5fea34)
+![code15](https://github.com/petrusthelastking/Algoritma-dan-Struktur-data/assets/143620112/5de8cb49-59a0-43c1-9831-ba40ba2d75d4)
 
